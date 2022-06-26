@@ -1,0 +1,5 @@
+{
+    "prettier.enableDebugLogs": false,
+    "prettier.endOfLine": "lf",
+    "workbench.settings.useSplitJSON": false
+}
